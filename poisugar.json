@@ -5,7 +5,7 @@
 			"anchor": {
 				"geolocation": {
 					"lat": 3.359406,
-					"lon": -76.302490
+					"lon": 76.302490
 				}
 			},
 			"id": 1,
@@ -17,7 +17,7 @@
 			"anchor": {
 				"geolocation": {
 					"lat ": 3.359177,
-					"lon": -76.301343
+					"lon": 76.301343
 				}
 			},
 			"icon": {
@@ -203,7 +203,7 @@
 					"lon": -76.327101
 				}
 			},
-			"id": 3,
+			"id": 12,
 			"text": {
 				"title": "This POI has an action"
 			}
