@@ -11,14 +11,14 @@
       }, 
       "id": 1, 
       "text": {
-        "title": "This is a basic POI"
+        "title": "Auditorio"
       }
     }, 
     {
       "anchor": {
         "geolocation": {
-          ""lat": 3.359406, 
-          "lon": -76.302490
+          ""lat": 3.359177, 
+          "lon": -76.301343
         }
       }, 
       "icon": {
@@ -27,7 +27,7 @@
       "id": 2, 
       "text": {
         "description": "Description line 1\nDescription line 2\nand Description line 3", 
-        "title": "This POI has a custom icon and description"
+        "title": "Biblioteca"
       }
     }, 
     {
@@ -40,8 +40,188 @@
       ], 
       "anchor": {
         "geolocation": {
-          "lat": 3.359406, 
-          "lon": -76.302490
+          "lat": 3.359197, 
+          "lon":  -76.301405
+        }
+      }, 
+      "id": 3, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "Lab Caña"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 3.359991, 
+          "lon": -76.302465
+        }
+      }, 
+      "id": 4, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "Edifico nuevo"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 3.359619, 
+          "lon": -76.300870
+        }
+      }, 
+      "id": 5, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "Admon"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 3.359878, 
+          "lon": -76.300859
+        }
+      }, 
+      "id": 6, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "Invernaderos"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 3.360320, 
+          "lon": -76.301838
+        }
+      }, 
+      "id": 7, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "PETAR"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 3.361325, 
+          "lon": -76.302033
+        }
+      }, 
+      "id": 8, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "Estacion RMA Cenicaña"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 3.360300, 
+          "lon": -76.299868
+        }
+      }, 
+      "id": 9, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "Castilla"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 3.368261, 
+          "lon": -76.287756
+        }
+      }, 
+      "id": 10, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "Maria Luisa"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 3.343850, 
+          "lon": -76.285755
+        }
+      }, 
+      "id": 11, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "Myaguez"
+      }
+    }, 
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": 3.398497, 
+          "lon": -76.327101
         }
       }, 
       "id": 3, 
