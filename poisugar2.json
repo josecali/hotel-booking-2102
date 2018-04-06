@@ -113,6 +113,78 @@
 					"lon": -76.302033
 				}
 			},
+			"id": 8,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Estacion RMA Cenicaña"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.360300,
+					"lon": -76.299868
+				}
+			},
+			"id": 9,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Castilla"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.368261,
+					"lon": -76.287756
+				}
+			},
+			"id": 10,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Maria Luisa"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.343850,
+					"lon": -76.285755
+				}
+			},
+			"id": 11,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Myaguez"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.398497,
+					"lon": -76.327101
+				}
+			},
 			"id": 13,
 			"text": {
 				"title": "This POI has an action"
