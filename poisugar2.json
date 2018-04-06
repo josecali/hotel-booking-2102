@@ -40,7 +40,43 @@
 					"lat": 3.359197,
 					"lon": -76.301405
 				}
-						},
+				},
+			"id": 4,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Edifico nuevo"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.359619,
+					"lon": -76.300870
+				}
+			},
+			"id": 5,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Admon"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.359878,
+					"lon": -76.300859
+				}
+			},
 			"id": 3,
 			"text": {
 				"title": "This POI has an action"
