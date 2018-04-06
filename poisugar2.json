@@ -77,7 +77,43 @@
 					"lon": -76.300859
 				}
 			},
-			"id": 3,
+			"id": 6,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Invernaderos"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.360320,
+					"lon": -76.301838
+				}
+			},
+			"id": 7,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "PETAR"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.361325,
+					"lon": -76.302033
+				}
+			},
+			"id": 13,
 			"text": {
 				"title": "This POI has an action"
 			}
