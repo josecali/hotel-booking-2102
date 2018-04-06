@@ -1,0 +1,51 @@
+{
+	"errorCode": 0,
+	"errorString": "ok",
+	"hotspots": [{
+			"anchor": {
+				"geolocation": {
+					"lat": 3.359406,
+					"lon": -76.302490
+				}
+			},
+			"id": 1,
+			"text": {
+				"title": "Auditorio"
+			}
+		},
+		{
+			"anchor": {
+				"geolocation": {
+					"lat": 3.359406,
+					"lon": -76.302490
+				}
+			},
+			"icon": {
+				"url": "https://raw.githubusercontent.com/josecali/hotel-booking-2102/master/marker_icon-icons.com_54388.png"
+			},
+			"id": 2,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Biblioteca"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.359197,
+					"lon": -76.301405
+				}
+						},
+			"id": 3,
+			"text": {
+				"title": "This POI has an action"
+			}
+		}
+	],
+	"layer": "sugarfk25"
+}
