@@ -172,23 +172,6 @@
 				"description": "Description line 1\nDescription line 2\nand Description line 3",
 				"title": "Myaguez"
 			}
-		},
-		{
-			"actions": [{
-				"contentType": "text/html",
-				"label": "Visit our hotspots documentation!",
-				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-			}],
-			"anchor": {
-				"geolocation": {
-					"lat": 3.398497,
-					"lon": -76.327101
-				}
-			},
-			"id": 13,
-			"text": {
-				"title": "This POI has an action"
-			}
 		}
 	],
 	"layer": "sugarfk25"
