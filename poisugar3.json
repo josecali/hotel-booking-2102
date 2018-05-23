@@ -1,0 +1,195 @@
+{
+	"errorCode": 0,
+	"errorString": "ok",
+	"hotspots": [{
+			"anchor": {
+				"geolocation": {
+					"lat": 3.360476,
+					"lon": -76.300591
+				}
+			},
+			"id": 1,
+			"text": {
+				"title": "Auditorio"
+			}
+		},
+		{
+			"anchor": {
+				"geolocation": {
+					"lat": 3.359213,
+					"lon": -76.301381
+				}
+			},
+			"icon": {
+				"url": "https://raw.githubusercontent.com/josecali/hotel-booking-2102/master/marker_icon-icons.com_54388.png"
+			},
+			"id": 2,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Biblioteca"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.359622,
+					"lon": -76.300859
+				}
+				},
+			"id": 4,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Edifico nuevo"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.35987,
+					"lon": -76.300927
+				}
+			},
+			"id": 5,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Admon"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.360294,
+					"lon": -76.301812
+				}
+			},
+			"id": 6,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Invernaderos"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.362218,
+					"lon": -76.301818
+				}
+			},
+			"id": 7,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "PTAR"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.360386,
+					"lon": -76.299895
+				}
+			},
+			"id": 8,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Estacion RMA Cenicaña"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.367741,
+					"lon": -76.287173
+				}
+			},
+			"id": 9,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Castilla"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.34368,
+					"lon": -76.285545
+				}
+			},
+			"id": 10,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Maria Luisa"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.398882,
+					"lon": -76.32828
+				}
+			},
+			"id": 11,
+			"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Myaguez"
+			}
+		},
+		{
+			"actions": [{
+				"contentType": "text/html",
+				"label": "Visit our hotspots documentation!",
+				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 3.398497,
+					"lon": -76.327101
+				}
+			},
+			"id": 13,
+			"text": {
+				"title": "This POI has an action"
+			}
+		}
+	],
+	"layer": "sugarfk25"
+}
