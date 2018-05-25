@@ -4,18 +4,6 @@
 	"hotspots": [{
 			"anchor": {
 				"geolocation": {
-					"lat": 3.360476,
-					"lon": -76.300591
-				}
-			},
-			"id": 1,
-			"text": {
-				"title": "Auditorio"
-			}
-		},
-		{
-			"anchor": {
-				"geolocation": {
 					"lat": 3.359213,
 					"lon": -76.301381
 				}
