@@ -21,7 +21,7 @@
 			"actions": [{
 				"contentType": "text/html",
 				"label": "CC 85-92",
-				"uri": "http://www.cenicana.org/testra_jlrv.php?cod-unico=CC000614000050"
+				"uri": "http://www.cenicana.org/testra_jlrv.php?cod_unico=CC000614000050"
 			}],
 			"anchor": {
 				"geolocation": {
