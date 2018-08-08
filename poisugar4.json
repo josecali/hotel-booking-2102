@@ -13,20 +13,20 @@
 			},
 			"id": 2,
 			"text": {
-				"description": "Description line 1\nDescription line 2\nand Description line 3",
-				"title": "Biblioteca"
+				"description": "Suelo FL-PB",
+				"title": "CC 85-92"
 			}
 		},
 		{
 			"actions": [{
 				"contentType": "text/html",
-				"label": "Visit our hotspots documentation!",
-				"uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+				"label": "CC 85-92",
+				"uri": "http://www.cenicana.org/testra_jlrv.php?cod-unico=CC000614000050"
 			}],
 			"anchor": {
 				"geolocation": {
-					"lat": 3.359622,
-					"lon": -76.300859
+					"lat": 3.42968013985574,
+					"lon": -76.4043198609554
 				}
 				},
 			"id": 4,
