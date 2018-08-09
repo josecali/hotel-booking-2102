@@ -36,7 +36,9 @@
 				},
 			"id": 4,
 			"text": {
-				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"description": "Consociacion Suelo FL-PB",
+				"description1": "Consociacion Suelo FL-PB",
+				"description2": "Consociacion Suelo FL-PB",
 				"title": "Edifico nuevo"
 			}
 		},
