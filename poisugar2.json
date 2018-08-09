@@ -11,7 +11,14 @@
 			"id": 1,
 			"text": {
 				"title": "Auditorio"
-			}
+			},
+		"actions": [{
+				"label": "CC 85-92",
+				"uri": "http:\/\//www.cenicana.org\/testra_jlrv.php?cod_unico=CC000614000050",
+				"contentType": "text\/html",
+				"method": "GET",
+				"activityType": 1
+			}],
 		},
 		{
 			"anchor": {
