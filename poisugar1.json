@@ -24,8 +24,10 @@
 			},
 			"id": 2,
 			"text": {
-				"title": "CC 85-92",
+				
 				"description": "Consociacion Suelo FL-PB",
+				"description2": "Consociacion Suelo FL-PB",
+				"title": "CC 85-92",
 				"footnote": "Powered by Layar"
 			}
 		},
