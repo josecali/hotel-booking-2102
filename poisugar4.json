@@ -2,6 +2,7 @@
 	"errorCode": 0,
 	"errorString": "ok",
 	"hotspots": [{
+		"id": "test_1",
 			"anchor": {
 				"geolocation": {
 					"lat": 3.359213,
@@ -13,8 +14,9 @@
 			},
 			"id": 2,
 			"text": {
+				"title": "CC 85-92",
 				"description": "Consociacion Suelo FL-PB",
-				"title": "CC 85-92"
+				"footnote": "Powered by Layar" },
 			}
 		},
 		{
