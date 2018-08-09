@@ -8,6 +8,10 @@
 					"lon": -76.301381
 				}
 			},
+		"text": {
+				"description": "Description line 1\nDescription line 2\nand Description line 3",
+				"title": "Estacion RMA Cenicaña"
+			},
 		"actions": [{
 				"label": "CC 85-92",
 				"uri": "http:\/\//www.cenicana.org\/testra_jlrv.php?cod_unico=CC000614000050",
