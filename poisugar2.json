@@ -46,9 +46,10 @@
 				},
 			"id": 4,
 			"text": {
-				"description": "Description line 1\nDescription line 2\nand Description line 3",
-				"title": "Edifico nuevo"
-			}
+				"title": "CC 85-92",
+				"description": "Consociacion Suelo FL-PB",
+				"footnote": "Powered by Layar"
+}
 		},
 		{
 			"actions": [{
