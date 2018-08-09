@@ -8,6 +8,13 @@
 					"lon": -76.301381
 				}
 			},
+		"actions": [{
+				"label": "CC 85-92",
+				"uri": "http:\/\//www.cenicana.org\/testra_jlrv.php?cod_unico=CC000614000050",
+				"contentType": "text\/html",
+				"method": "GET",
+				"activityType": 1
+			}],
 			"icon": {
 				"url": "https://raw.githubusercontent.com/josecali/hotel-booking-2102/master/marker_icon-icons.com_54388.png"
 			},
