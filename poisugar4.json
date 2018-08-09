@@ -2,7 +2,6 @@
 	"errorCode": 0,
 	"errorString": "ok",
 	"hotspots": [{
-		"id": "test_1",
 			"anchor": {
 				"geolocation": {
 					"lat": 3.359213,
